@@ -1,0 +1,23 @@
+{
+    "id": "333784619373821956",
+    "application_id": null,
+    "name": "Vixel",
+    "icon": "86e39f7ae3307e811784e2ffd11a7310",
+    "splash": null,
+    "owner_id": "333784619373821956",
+    "region": "us-east",
+    "afk_channel_id": "333784619373821956",
+    "afk_timeout": 300,
+    "embed_enabled": true,
+    "embed_channel_id": "333784619373821956",
+    "verification_level": 1,
+    "default_message_notifications": 0,
+    "explicit_content_filter": 0,
+    "mfa_level": 0,
+    "widget_enabled": false,
+    "widget_channel_id": "333784619373821956",
+    "roles": [],
+    "emojis": [],
+    "features": ["INVITE_SPLASH"],
+    "unavailable": false
+}
